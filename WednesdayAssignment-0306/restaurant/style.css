@@ -1,0 +1,25 @@
+img{
+  width:120px;
+  length:120px;
+}
+
+/* .imgDiv{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+} */
+
+
+li{
+  display: flex;
+  flex-direction: row;
+}
+p{
+  margin-left: 10px;
+  font-size: 12px;
+}
+/* .title{
+  display: flex;
+  flex-direction: row;
+
+} */
