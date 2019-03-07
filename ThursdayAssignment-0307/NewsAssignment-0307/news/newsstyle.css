@@ -1,0 +1,14 @@
+img{
+width:200;
+height:200;
+padding-bottom: 20px;
+
+}
+
+div{
+  padding-left: 30px;
+}
+li{
+  display: flex;
+  flex-position : row;
+}
